@@ -47,7 +47,7 @@ Tech: Java, Spring Boot, React, H2
 Explainable AI system using SHAP and ML models.
 
 Tech: Python, XGBoost, SHAP  
-🔗 Repo: (add link if public)
+
 
 ---
 
