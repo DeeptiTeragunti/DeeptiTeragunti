@@ -19,20 +19,21 @@ I build practical, scalable applications with clean architecture — and explain
 
 ## 🛠 Tech Stack
 
-**Languages**
-Java, Python, JavaScript, SQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,mysql&theme=dark" />
+</p>
 
-**Backend**
-Spring Boot, JPA, REST APIs, MySQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,react,angular,vite,tailwind&theme=dark" />
+</p>
 
-**Frontend**
-React, Angular, Vite, Tailwind CSS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sklearn,pandas&theme=dark" />
+</p>
 
-**Data / ML**
-scikit-learn, XGBoost, SHAP, LIME, Pandas
-
-**Tools**
-Git, GitHub, AWS, Docker, Maven, Postman
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,aws,docker,maven,postman&theme=dark" />
+</p>
 
 ---
 
