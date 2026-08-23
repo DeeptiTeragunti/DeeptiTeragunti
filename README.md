@@ -1,60 +1,71 @@
 # Hi, I'm Deepti 👋
 
-Full Stack Developer | Data Analytics MSc Graduate | Java & React Enthusiast
+Software Engineer | Data Analytics MSc Graduate | Java, Spring Boot & React
 
-I build practical, scalable applications with clean architecture and real-world use cases.
+I build practical, scalable applications with clean architecture — and explainable, evidence-driven ML systems.
 
 ---
 
 ## 💻 About Me
 
-- 🎓 MSc in Data Analytics, University of Galway
-- 💼 Former Full Stack Developer at IBM
-- 🌍 Based in Ireland
-- 🚀 Actively seeking Software / Data roles
-- 🧠 Strong in Java, Spring Boot, React, SQL, Python
+- 🎓 MSc in Data Analytics (First Class Honours), University of Galway
+- 💼 ~3 years as a Full Stack Developer at IBM — Java, Spring Boot, Angular/React, DB2/SQL, CI/CD
+- 🌍 Based in Ireland (Stamp 1G — no sponsorship needed)
+- 🎯 Actively seeking Software Engineer / Data Analyst roles
+- 🧠 Strong in Java, Spring Boot, React, SQL, Python, ML/XAI
 - ☕ Fueled by coffee
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**  
+**Languages**
 Java, Python, JavaScript, SQL
 
-**Backend**  
-Spring Boot, JPA, REST APIs, H2, MySQL
+**Backend**
+Spring Boot, JPA, REST APIs, MySQL
 
-**Frontend**  
-React, Vite, Tailwind CSS,Angular
+**Frontend**
+React, Angular, Vite, Tailwind CSS
 
-**Tools**  
-Git, GitHub, Maven, Postman, VS Code
+**Data / ML**
+scikit-learn, XGBoost, SHAP, LIME, Pandas
+
+**Tools**
+Git, GitHub, AWS, Docker, Maven, Postman
 
 ---
 
 ## 📌 Featured Projects
 
-### 📊 Club Event Attendance System
-Full-stack system for managing events, members, and attendance.
+### 📊 Club Event Check-In & Attendance Platform
+Full-stack platform for managing events, members, and attendance — designed, built, and deployed independently.
 
-Tech: Java, Spring Boot, React, H2  
-🔗 Repo: https://github.com/DeeptiTeragunti/Full-Stack-Project
-
----
-
-### 🧠 Alzheimer’s Detection (MSc Thesis)
-Explainable AI system using SHAP and ML models.
-
-Tech: Python, XGBoost, SHAP  
-
+Tech: Java, Spring Boot, React, AWS
+🔗 [Repo](https://github.com/DeeptiTeragunti/Full-Stack-Project)
 
 ---
 
-## 📈 What I’m Working On
+### 🧠 Alzheimer's Detection — Explainable AI (MSc Thesis)
+Explainable ML pipeline (Random Forest, XGBoost, SVM) with SHAP/LIME — cut the feature space 86% with no loss in accuracy (94.2%, 0.95 ROC-AUC).
 
-- Improving system design skills
+Tech: Python, scikit-learn, XGBoost, SHAP, LIME
+🔗 [Repo](https://github.com/DeeptiTeragunti/Msc-DA-Thesis)
+
+---
+
+### 🧩 DSA / LeetCode Practice
+Ongoing Java solutions to build and sharpen problem-solving for interviews.
+
+🔗 [Repo](https://github.com/DeeptiTeragunti/LeetCodeSubmisssions)
+
+---
+
+## 📈 What I'm Working On
+
+- Sharpening system design and DSA for interviews
 - Building production-ready full-stack apps
+
 ---
 
 ## 📫 Connect With Me
