@@ -1,6 +1,6 @@
 # Hi, I'm Deepti 👋
 
-Software Engineer | Data Analytics MSc Graduate | Java, Spring Boot & React
+Software Engineer | Data Analytics MSc Graduate | Building AI Systems
 
 I build practical, scalable applications with clean architecture — and explainable, evidence-driven ML systems.
 
